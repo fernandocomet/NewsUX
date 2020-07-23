@@ -1,0 +1,53 @@
+<opml version="2.0">
+	<body>
+		<outline text="Subscriptions" title="Subscriptions">
+		<outline xmlUrl='https://blog.balsamiq.com/category/ux/feed/' />
+		<outline xmlUrl='http://www.uxswitch.com/feed/' />
+		<outline xmlUrl='https://www.nngroup.com/feed/rss/' />
+		<outline xmlUrl='https://uxstudioteam.com/ux-blog/feed/' />
+		<outline xmlUrl='http://www.experienceux.co.uk/ux-blog/feed/' />
+		<outline xmlUrl='http://hackingui.com/feed/?post_type=newsletter_link' />
+		<outline xmlUrl='http://uxdesignweekly.com/feed/' />
+		<outline xmlUrl='http://feeds.feedburner.com/UsefulUsability' />
+		<outline xmlUrl='https://boagworld.com/category/usability/feed/' />
+		<outline xmlUrl='http://feeds.feedburner.com/webdesignerdepot' />
+		<outline xmlUrl='https://usabilitygeek.com/feed/' />
+		<outline xmlUrl='http://blog.experientia.com/category/methods_parent/user-experience/feed/' />
+		<outline xmlUrl='https://design.org/blog/feed/' />
+		<outline xmlUrl='http://feeds.feedburner.com/uxmovement' />
+		<outline xmlUrl='https://1stwebdesigner.com/category/ux/feed/' />
+		<outline xmlUrl='https://uxdesign.cc/feed' />
+		<outline xmlUrl='http://feeds.podtrac.com/mval_omN-dea' />
+		<outline xmlUrl='https://www.toptal.com/designers/blog.rss' />
+		<outline xmlUrl='https://theblog.adobe.com/creative-cloud/xd/feed/' />
+		<outline xmlUrl='https://www.invisionapp.com/inside-design/feed/' />
+		<outline xmlUrl='https://www.designernews.co/?format=rss' />
+		<outline xmlUrl='https://www.akendi.com/blog/feed/' />
+		<outline xmlUrl='https://www.sitepoint.com/design-ux/feed/' />
+		<outline xmlUrl='http://feeds.uxmag.com/uxm' />
+		<outline xmlUrl='http://www.uxbeginner.com/blog/feed/' />
+		<outline xmlUrl='https://theblog.adobe.com/creative-cloud/xd/feed/' />
+		<outline xmlUrl='https://uxplanet.org/feed' />
+		<outline xmlUrl='https://www.smashingmagazine.com/feed/' />
+		<outline xmlUrl='https://think360studio.com/category/uiux-design/feed/' />
+		<outline xmlUrl='https://www.justinmind.com/blog/category/ux-design/feed/' />
+		<outline xmlUrl='https://www.insightfulux.co.uk/category/ux/feed' />
+		<outline xmlUrl='https://www.fastcodesign.com/ui-ux-interactive/rss' />
+		<outline xmlUrl='https://speckyboy.com/category/ux/feed/' />
+		<outline xmlUrl='http://www.keepitusable.com/blog/feed/' />
+		<outline xmlUrl='https://www.oreilly.com/topics/design/feed.atom' />
+		<outline xmlUrl='https://blog.nomnom.it/feed' />
+		<outline xmlUrl='https://medium.com/feed/pminsider' />
+		<outline xmlUrl='https://alphahq.com/blog/feed/' />
+		<outline xmlUrl='https://www.interaction-design.org/rss/site_news.xml' />
+		<outline xmlUrl='https://designmodo.com/design/ux-design/feed/' />
+		<outline xmlUrl='https://blog.balsamiq.com/feed/' />
+		<outline xmlUrl='https://www.noupe.com/category/design/ui-ux/feed' />
+		<outline xmlUrl='http://feeds.feedburner.com/uxmastery' />
+		<outline xmlUrl='http://feedpress.me/uxbooth' />
+		<outline xmlUrl='https://blogs.adobe.com/creativecloud/feed/' />
+		<outline xmlUrl='http://feedpress.me/designshack' />
+		<outline xmlUrl='http://feedpress.me/heydesigner' />	
+		</outline>
+	</body>
+</opml>
